@@ -1,0 +1,12 @@
+INSERT INTO `EmpInfo`(`EmpID`, `Fname`, `Lname`) VALUES ('0','Bobby','Fischer');
+INSERT INTO `EmpInfo`(`EmpID`, `Fname`, `Lname`) VALUES ('1','Garry','Kasparov');
+INSERT INTO `EmpInfo`(`EmpID`, `Fname`, `Lname`) VALUES ('2','Magnus','Carlsen');
+INSERT INTO `EmpInfo`(`EmpID`, `Fname`, `Lname`) VALUES ('3','Anatoly','Karpov');
+INSERT INTO `EmpInfo`(`EmpID`, `Fname`, `Lname`) VALUES ('4','Boris','Spassky');
+INSERT INTO `EmpInfo`(`EmpID`, `Fname`, `Lname`) VALUES ('5','Alexander','Alekhine');
+INSERT INTO `EmpInfo`(`EmpID`, `Fname`, `Lname`) VALUES ('6','Mikhail','Botvinnik');
+INSERT INTO `EmpInfo`(`EmpID`, `Fname`, `Lname`) VALUES ('7','Viswanathan','Anand');
+INSERT INTO `EmpInfo`(`EmpID`, `Fname`, `Lname`) VALUES ('8','Vladimir','Kramnik');
+INSERT INTO `EmpInfo`(`EmpID`, `Fname`, `Lname`) VALUES ('9','Emanuel','Lasker');
+INSERT INTO `EmpInfo`(`EmpID`, `Fname`, `Lname`) VALUES ('10','Mikhail','Tal');
+INSERT INTO `EmpInfo`(`EmpID`, `Fname`, `Lname`) VALUES ('11','Paul','Morphy');

@@ -1,0 +1,12 @@
+INSERT INTO `ExpDetail`(`EmpID`, `ExpDate`, `ExpDescription`, `CategoryID`, `PaymentMethod`, `Reimbursable`, `Amount`) 
+VALUES ('0','2021-12-08','Kansas Turnpike','1','Cash','Y','3.50');
+INSERT INTO `ExpDetail`(`EmpID`, `ExpDate`, `ExpDescription`, `CategoryID`, `PaymentMethod`, `Reimbursable`, `Amount`) 
+VALUES ('1','2021-12-04','Gas for ice cream truck','2','Debit','Y','35.23');
+INSERT INTO `ExpDetail`(`EmpID`, `ExpDate`, `ExpDescription`, `CategoryID`, `PaymentMethod`, `Reimbursable`, `Amount`) 
+VALUES ('2','2021-11-22','Enchilada dinner with Mom','3','Credit','N','40.01');
+INSERT INTO `ExpDetail`(`EmpID`, `ExpDate`, `ExpDescription`, `CategoryID`, `PaymentMethod`, `Reimbursable`, `Amount`) 
+VALUES ('3','2021-08-11','Hotel in Austin, TX','4','Credit','Y','110.50');
+INSERT INTO `ExpDetail`(`EmpID`, `ExpDate`, `ExpDescription`, `CategoryID`, `PaymentMethod`, `Reimbursable`, `Amount`) 
+VALUES ('4','2021-01-08','500 mileage on Mexico trip','5','Credit','Y','100.00');
+INSERT INTO `ExpDetail`(`EmpID`, `ExpDate`, `ExpDescription`, `CategoryID`, `PaymentMethod`, `Reimbursable`, `Amount`) 
+VALUES ('5','2020-12-08','Office Christmas Party','6','Cash','Y','1000');
